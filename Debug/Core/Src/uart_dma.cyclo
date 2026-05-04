@@ -1,0 +1,8 @@
+../Core/Src/uart_dma.c:14:17:UART_DMA_Init	3
+../Core/Src/uart_dma.c:46:6:HAL_UART_TxCpltCallback	2
+../Core/Src/uart_dma.c:59:6:HAL_UART_TxHalfCpltCallback	1
+../Core/Src/uart_dma.c:75:17:UART_DMA_TransmitString	5
+../Core/Src/uart_dma.c:95:17:UART_DMA_TransmitBuffer	5
+../Core/Src/uart_dma.c:111:9:UART_DMA_IsTxComplete	1
+../Core/Src/uart_dma.c:124:17:UART_DMA_StartCircular	4
+../Core/Src/uart_dma.c:140:17:UART_DMA_StopCircular	2
